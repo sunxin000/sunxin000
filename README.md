@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🏫 I’m currently studying at shool of computer and science of SJTU.
+- 🌱 I’m currently learning nlp, \*former, GNN, causal inference and so forth.
+- 🤔 I’m looking for help with 
+- 💬 Ask me about anything.
+- 📫 How to reach me: 18-sunxin@sjtu.edu.cn
+ <!-- waka-box start -->
+ <!-- waka-box end -->
