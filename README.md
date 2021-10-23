@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🏫 I’m currently studying at shool of computer and science of SJTU.
 - 🌱 I’m currently learning nlp, \*former, GNN, causal inference and so forth.
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with my poor english.
 - 💬 Ask me about anything.
 - 📫 How to reach me: 18-sunxin@sjtu.edu.cn
  <!-- waka-box start -->
