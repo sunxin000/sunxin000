@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my poor english.
 - 💬 Ask me about anything.
 - 📫 How to reach me: 18-sunxin@sjtu.edu.cn
- <!-- waka-box start -->
- <!-- waka-box end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
