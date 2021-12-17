@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: 18-sunxin@sjtu.edu.cn
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -28,15 +30,14 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   47 mins             █████████████████████████   99.6% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+Text                     0 secs              ██████████████████████░░░   87.92% 
+Python                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.08%
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.0%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    34 mins             ██████████████████░░░░░░░   72.66% 
-Windows                  12 mins             ██████░░░░░░░░░░░░░░░░░░░   27.34%
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
