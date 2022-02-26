@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: 18-sunxin@sjtu.edu.cn
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2027%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -44,5 +46,5 @@ Mac                      4 hrs 41 mins       ██████████░�
 ```
 
 
- Last Updated on 26/02/2022 16:00:10 UTC
+ Last Updated on 26/02/2022 16:01:55 UTC
 <!--END_SECTION:waka-->
