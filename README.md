@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: 18-sunxin@sjtu.edu.cn
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -45,5 +45,5 @@ Linux                    16 hrs 35 mins      ███████████�
 ```
 
 
- Last Updated on 18/04/2022 09:43:23 UTC
+ Last Updated on 18/04/2022 09:45:05 UTC
 <!--END_SECTION:waka-->
