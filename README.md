@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,5 +45,5 @@ Linux                    3 hrs 46 mins       ███████████�
 ```
 
 
- Last Updated on 21/05/2022 19:59:21 UTC
+ Last Updated on 21/05/2022 20:01:08 UTC
 <!--END_SECTION:waka-->
