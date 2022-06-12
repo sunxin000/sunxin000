@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-orange)
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
@@ -46,5 +46,5 @@ Mac                      7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/06/2022 07:35:04 UTC
+ Last Updated on 12/06/2022 07:36:48 UTC
 <!--END_SECTION:waka-->
